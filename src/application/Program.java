@@ -12,6 +12,7 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 
+		System.out.println("Bom dia!");
 		
 		System.out.println("Enter product data: ");
 		System.out.print("Name: ");
